@@ -1,7 +1,7 @@
 # StarTrek-Rating
 Personal rating of Star Trek series and movies.
 
-# Series
+## Series
 [TOS](TOS.md)
 
 [TNG](TNG.md)
@@ -14,5 +14,5 @@ Personal rating of Star Trek series and movies.
 
 [PIC](PIC.md)
 
-# Movies
+## Movies
 [MOV](MOV.md)
